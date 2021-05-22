@@ -1,0 +1,53 @@
+html {
+	background-image: url("123.jpg");
+	background-repeat: repeat;
+}
+
+body{
+	text-align: center;
+	background: url(123.jpg);
+}
+
+
+h1{
+	color:royalblue;
+	font-size: 70px;
+	font-weight: bold;
+	font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+	font-size: xx-large;
+	font-weight: bold;
+	text-align: center;
+	font-family: fantasy;
+	color:#E040FB;
+}
+
+img{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	width: 30%
+}
+
+#Wish1{
+	height: 100%;
+	width:60%;
+}
+
+#Wish2{
+	height: 100%;
+	width: 60%;
+}
+
+#wish3{
+	height: 100%;
+	width:60%;
+}
+
+#wish4{
+	height: 100%;
+	width:60%;
+}
+
